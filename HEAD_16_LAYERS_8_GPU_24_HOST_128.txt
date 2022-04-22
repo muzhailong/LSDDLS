@@ -1,0 +1,15 @@
+OMNeT++ Discrete Event Simulation  (C) 1992-2016 Andras Varga, OpenSim Ltd.
+Version: 5.0, build: 160414-aa4629c, edition: Academic Public License -- NOT FOR COMMERCIAL USE
+See the license for distribution terms and warranty disclaimer
+Setting up Cmdenv...
+Loading NED files from .:  7
+
+Preparing for running configuration HEAD_16_LAYERS_8_GPU_24_HOST_128, run #0...
+Scenario: $repetition=0
+Assigned runID=HEAD_16_LAYERS_8_GPU_24_HOST_128-0-20220418-16:48:14-97247
+Setting up network `OCSNet'...
+
+<!> Error in module (omnetpp::cModule) OCSNet (id=1) during network setup: No submodule `switchs[24]' to be connected, at /data/home/muzhailong/omnetpp_project/ddp_sim/OCSNet.ned:56.
+
+
+End.

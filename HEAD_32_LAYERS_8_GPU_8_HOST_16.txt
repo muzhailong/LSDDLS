@@ -1,0 +1,30 @@
+OMNeT++ Discrete Event Simulation  (C) 1992-2016 Andras Varga, OpenSim Ltd.
+Version: 5.0, build: 160414-aa4629c, edition: Academic Public License -- NOT FOR COMMERCIAL USE
+See the license for distribution terms and warranty disclaimer
+Setting up Cmdenv...
+Loading NED files from .:  7
+
+Preparing for running configuration HEAD_32_LAYERS_8_GPU_8_HOST_16, run #0...
+Scenario: $repetition=0
+Assigned runID=HEAD_32_LAYERS_8_GPU_8_HOST_16-0-20220418-18:08:51-207594
+Setting up network `OCSNet'...
+Initializing...
+
+Running simulation...
+** Event #0   t=0   Elapsed: 0.000s (0m 00s)
+     Speed:     ev/sec=0   simsec/sec=0   ev/simsec=0
+     Messages:  created: 32   present: 32   in FES: 32
+** Event #328192   t=9.084676763629   Elapsed: 2.000s (0m 02s)
+     Speed:     ev/sec=164096   simsec/sec=4.54234   ev/simsec=36126
+     Messages:  created: 206756   present: 206756   in FES: 127
+** Event #624128   t=10.420119792145   Elapsed: 4.001s (0m 04s)
+     Speed:     ev/sec=147894   simsec/sec=0.667388   ev/simsec=221601
+     Messages:  created: 375856   present: 375856   in FES: 127
+** Event #855568   t=11.534742119455   Elapsed: 5.653s (0m 05s)
+     Speed:     ev/sec=140181   simsec/sec=0.67512   ev/simsec=207639
+     Messages:  created: 508032   present: 508032   in FES: 0
+
+<!> No more events -- simulation ended at event #855568, t=11.534742119455.
+
+
+Calling finish() at end of Run #0...
